@@ -1,0 +1,12 @@
+{
+  "name": "rate-limiter-learning",
+  "version": "1.0.0",
+  "description": "A tiny learning project to understand 4 rate limiting algorithms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
